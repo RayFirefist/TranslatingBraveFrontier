@@ -37,7 +37,7 @@
 *,type=STOP,id=-1,#
 *,type=PLAYWAIT,param=2,#
 *,type=STOP,id=-1,#
-*,type=PARAM,id=16,param=5,#*,type=MSGDRAW,msg=<anchor=center><speed=8><size=15>バリウラ地方の<wait=20><br>グランガイア封穴にて、<wait=20><br><rep_handlename>が、<wait=20><br>封神ルシアスを倒して<wait=20><br>間もなくのこと……。,#
+*,type=PARAM,id=16,param=5,#*,type=MSGDRAW,msg=<anchor=center><speed=8><size=15>Bariura local<wait=20><br>At Grand Gaia seal hole,<wait=20><br><rep_handlename>But,<wait=20><br>Tilt the seal of God lucious<wait=20><br>Soon things .......,#
 *,type=PLAYWAIT,param=9,#
 *,type=PARAM,id=7,param=1:0&0&0,#
 *,type=STOP,id=-1,#
@@ -50,7 +50,7 @@
 *,type=PARAM,id=37,param=255&255&255,#
 *,type=STOP,id=-1,#
 *,type=PLAYWAIT,param=1,#
-*,type=PARAM,id=16,param=4,#*,type=MSGDRAW,msg=<anchor=center><br><br><color=000000><size=15><speed=8>へえー、<wait=20>パリスちゃんっていうんだ。<wait=20><br>よろしくねー。,#
+*,type=PARAM,id=16,param=4,#*,type=MSGDRAW,msg=<anchor=center><br><br><color=000000><size=15><speed=8>He,<wait=20>I Tteyuu Paris-chan.<wait=20><br>Say hello.,#
 *,type=PLAYWAIT,param=5,#
 *,type=PARAM,id=7,param=1:255&255&255,#
 *,type=STOP,id=-1,#
