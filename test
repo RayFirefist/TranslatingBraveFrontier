@@ -37,7 +37,7 @@
 *,type=STOP,id=-1,#
 *,type=PLAYWAIT,param=2,#
 *,type=STOP,id=-1,#
-*,type=PARAM,id=16,param=5,#*,type=MSGDRAW,msg=<anchor=center><speed=8><size=15>バリウラ地方の<wait=20><br>グランガイア封穴にて、<wait=20><br><rep_handlename>が、<wait=20><br>封神ルシアスを倒して<wait=20><br>間もなくのこと……。,#
+*,type=PARAM,id=16,param=5,#*,type=MSGDRAW,msg=<anchor=center><speed=8><size=15>Bariura local<wait=20><br>At Grand Gaia seal hole,<wait=20><br><rep_handlename>But,<wait=20><br>Tilt the seal of God lucious<wait=20><br>Soon things.......,#
 *,type=PLAYWAIT,param=9,#
 *,type=PARAM,id=7,param=1:0&0&0,#
 *,type=STOP,id=-1,#
@@ -50,33 +50,11 @@
 *,type=PARAM,id=37,param=255&255&255,#
 *,type=STOP,id=-1,#
 *,type=PLAYWAIT,param=1,#
-*,type=PARAM,id=16,param=4,#*,type=MSGDRAW,msg=<anchor=center><br><br><color=000000><size=15><speed=8>へえー、<wait=20>パリスちゃんっていうんだ。<wait=20><br>よろしくねー。,#
+*,type=PARAM,id=16,param=4,#*,type=MSGDRAW,msg=<anchor=center><br><br><color=000000><size=15><speed=8>He,<wait=20>I Tteyuu Paris-chan.<wait=20><br>Say hello.,#
 *,type=PLAYWAIT,param=5,#
 *,type=PARAM,id=7,param=1:255&255&255,#
 *,type=STOP,id=-1,#
-*,type=PARAM,id=16,param=3,#*,type=MSGDRAW,msg=<anchor=center><br><br><color=000000><size=15><speed=8>わたしの名前は<wait=20>…<wait=20>…<wait=20>…。,#
-*,type=PLAYWAIT,param=5,#
-*,type=PARAM,id=7,param=1:255&255&255,#
-*,type=STOP,id=-1,#
-*,type=PARAM,id=7,param=2:255&255&255,#
-*,type=STOP,id=-1,#
-*,type=PARAM,id=8,param=2:255&255&255,#
-*,type=PARAM,id=38,param=-1,#
-*,type=PARAM,id=37,param=0&0&0,#
-*,type=STOP,id=-1,#
-*,type=PLAYWAIT,param=2,#
-*,type=PARAM,id=7,param=1.5:255&255&255,#
-*,type=PARAM,id=38,param=-1,#
-*,type=STOP,id=-1,#
-*,type=PARAM,id=37,param=255&255&255,#
-*,type=PARAM,id=8,param=2:255&255&255,#
-*,type=STOP,id=-1,#
-*,type=PLAYWAIT,param=1,#
-*,type=PARAM,id=16,param=4,#*,type=MSGDRAW,msg=<anchor=center><br><br><color=000000><size=15><speed=8>パリスちゃんの髪の毛って、<wait=20><br>いつ見ても綺麗！,#
-*,type=PLAYWAIT,param=5,#
-*,type=PARAM,id=7,param=1:255&255&255,#
-*,type=STOP,id=-1,#
-*,type=PARAM,id=16,param=4,#*,type=MSGDRAW,msg=<anchor=center><br><br><color=000000><size=15><speed=8>わたしのはダメだよ～。<wait=20><br>だって手入れとかしてないもん…。,#
+*,type=PARAM,id=16,param=3,#*,type=MSGDRAW,msg=<anchor=center><br><br><color=000000><size=15><speed=8>My name is<wait=20>…<wait=20>…<wait=20>…。,#
 *,type=PLAYWAIT,param=5,#
 *,type=PARAM,id=7,param=1:255&255&255,#
 *,type=STOP,id=-1,#
@@ -94,19 +72,41 @@
 *,type=PARAM,id=8,param=2:255&255&255,#
 *,type=STOP,id=-1,#
 *,type=PLAYWAIT,param=1,#
-*,type=PARAM,id=16,param=4,#*,type=MSGDRAW,msg=<anchor=center><br><br><color=000000><size=15><speed=8>あのね。<wait=20>お母さんがパリスちゃんと<br>遊んじゃいけないって言うんだ。,#
+*,type=PARAM,id=16,param=4,#*,type=MSGDRAW,msg=<anchor=center><br><br><color=000000><size=15><speed=8>What hair of the Paris-chan,<wait=20><br>When will clean look!,#
+*,type=PLAYWAIT,param=5,#
+*,type=PARAM,id=7,param=1:255&255&255,#
+*,type=STOP,id=-1,#
+*,type=PARAM,id=16,param=4,#*,type=MSGDRAW,msg=<anchor=center><br><br><color=000000><size=15><speed=8>I of the the'm no good.<wait=20><br>And because not Toka care…。,#
+*,type=PLAYWAIT,param=5,#
+*,type=PARAM,id=7,param=1:255&255&255,#
+*,type=STOP,id=-1,#
+*,type=PARAM,id=7,param=2:255&255&255,#
+*,type=STOP,id=-1,#
+*,type=PARAM,id=8,param=2:255&255&255,#
+*,type=PARAM,id=38,param=-1,#
+*,type=PARAM,id=37,param=0&0&0,#
+*,type=STOP,id=-1,#
+*,type=PLAYWAIT,param=2,#
+*,type=PARAM,id=7,param=1.5:255&255&255,#
+*,type=PARAM,id=38,param=-1,#
+*,type=STOP,id=-1,#
+*,type=PARAM,id=37,param=255&255&255,#
+*,type=PARAM,id=8,param=2:255&255&255,#
+*,type=STOP,id=-1,#
+*,type=PLAYWAIT,param=1,#
+*,type=PARAM,id=16,param=4,#*,type=MSGDRAW,msg=<anchor=center><br><br><color=000000><size=15><speed=8>You know what.<wait=20>I do say me mom should not play Paris properly.,#
 *,type=PLAYWAIT,param=7,#
 *,type=PARAM,id=7,param=1:255&255&255,#
 *,type=STOP,id=-1,#
-*,type=PARAM,id=16,param=3,#*,type=MSGDRAW,msg=<anchor=center><br><br><color=000000><size=15><speed=8>住む世界が違うって…。,#
+*,type=PARAM,id=16,param=3,#*,type=MSGDRAW,msg=<anchor=center><br><br><color=000000><size=15><speed=8>The world to live is me different...,#
 *,type=PLAYWAIT,param=3,#
 *,type=PARAM,id=7,param=1:255&255&255,#
 *,type=STOP,id=-1,#
-*,type=PARAM,id=16,param=3,#*,type=MSGDRAW,msg=<anchor=center><br><br><color=000000><size=15><speed=8>でも、そんなことないよね。,#
+*,type=PARAM,id=16,param=3,#*,type=MSGDRAW,msg=<anchor=center><br><br><color=000000><size=15><speed=8>But, I'm not such a thing.,#
 *,type=PLAYWAIT,param=3,#
 *,type=PARAM,id=7,param=1:255&255&255,#
 *,type=STOP,id=-1,#
-*,type=PARAM,id=16,param=3,#*,type=MSGDRAW,msg=<anchor=center><br><br><color=000000><size=15><speed=8>私たちずっと友達だよね…。,#
+*,type=PARAM,id=16,param=3,#*,type=MSGDRAW,msg=<anchor=center><br><br><color=000000><size=15><speed=8>We much friends ....,#
 *,type=PLAYWAIT,param=5,#
 *,type=PARAM,id=7,param=1:255&255&255,#
 *,type=STOP,id=-1,#
@@ -130,10 +130,10 @@
 *,type=PARAM,id=44,param=3,#
 *,type=PLAYWAIT,param=0.5,#
 *,type=PARAM,id=2,param=chr5_ko:0:15:2:0.5,#
-*,type=PARAM,id=39,param=パリス,#
+*,type=PARAM,id=39,param=Paris,#
 *,type=PLAYWAIT,param=1,#
 *,type=PARAM,id=3,param=chr5_fu:1:0.5,#
-*,type=PARAM,id=15,param=0,#*,type=MSGDRAW,msg=<speed=10>…………<wait=30>夢？,#*,type=MSGWAIT,#*,type=STOP,id=-1,#
+*,type=PARAM,id=15,param=0,#*,type=MSGDRAW,msg=<speed=10>…………<wait=30>Dream?,#*,type=MSGWAIT,#*,type=STOP,id=-1,#
 *,type=PARAM,id=7,param=1.5:0&0&0,#
 *,type=STOP,id=-1,#
 *,type=PARAM,id=40,param=-1,#
