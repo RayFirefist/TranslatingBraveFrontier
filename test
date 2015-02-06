@@ -37,7 +37,7 @@
 *,type=STOP,id=-1,#
 *,type=PLAYWAIT,param=2,#
 *,type=STOP,id=-1,#
-*,type=PARAM,id=16,param=5,#*,type=MSGDRAW,msg=<anchor=center><speed=8><size=15>Bariura local<wait=20><br>At Grand Gaia seal hole,<wait=20><br><rep_handlename>But,<wait=20><br>Tilt the seal of God lucious<wait=20><br>Soon things.......,#
+*,type=PARAM,id=16,param=5,#*,type=MSGDRAW,msg=<anchor=center><speed=8><size=15>Bariura local<wait=20><br>At Grand Gaia seal hole,<wait=20><br><rep_handlename>But,<wait=20><br>Tilith the seal of God lucious<wait=20><br>Soon things.......,#
 *,type=PLAYWAIT,param=9,#
 *,type=PARAM,id=7,param=1:0&0&0,#
 *,type=STOP,id=-1,#
